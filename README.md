@@ -22,4 +22,15 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 
+#Link to webpage
+https://natengs.github.io/DailyWorkOrganizer/Develop/index.html
+
+#Usage
+This webpage was created to provide a resource to keep a day's work organized for the user.  Given hour by hour functionality and a way to plan their day.
+
+#Features
+The interface allows for the user to input their activities for each hour, and an icon to save their input.
+Added a "clear all" button option so that the user does not have to delete ach hour on their own.
+Color scheme - to be developed - that allows the user to see what events have occurred or are still coming with a clear color schema.
+Time functionality that will refresh on reload so the user can ascertain the current time.
 
